@@ -1,6 +1,4 @@
-# Author: Yanling Wang yuw17@psu.edu
-# Collaborator if there is any, but can be solo
-
+# Author: Shakeb Siddiqui sms8508@psu.edu
 
 def getGradePoint(grade):
 
