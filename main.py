@@ -47,7 +47,7 @@ Gp2 = getGradePoint(grade2)
 (credit2) = input("Enter your course 2 credit: ")
 print (f"Grade point for course 2 is: {Gp2}")
 
-grade3 = input("Enter course 3 letter grade: ")
+grade3 = input("Enter your course 3 letter grade: ")
 Gp3 = getGradePoint(grade3)
 (credit3) = input("Enter your course 3 credit: ")
 print (f"Grade point for course 3 is: {Gp3}")
