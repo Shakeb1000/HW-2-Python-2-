@@ -25,7 +25,7 @@ def getGradePoint(grade):
  return course1gp
 
 
-
+""""
 grade1 = input("Enter your course 1 letter grade: ")
 Gp1 = getGradePoint(grade1)
 credit1 = input("Enter your course 1 credit: ")
@@ -45,6 +45,6 @@ credit1=float(credit1)
 credit2=float(credit2)
 credit3=float(credit3)
 
-
 GPA = ((Gp1 * credit1) + (Gp2 * credit2) + (Gp3 * credit3)) / (credit1 + credit2 + credit3)
 print(f"Your GPA is: {GPA}")
+"""
