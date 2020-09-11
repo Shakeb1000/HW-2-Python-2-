@@ -57,5 +57,5 @@ credit2=float(credit2)
 credit3=float(credit3)
 
 
-GPA = (Gp1 * credit1) + (Gp2 * credit2) + (Gp3 * credit3) / (credit1 + credit2 + credit3)
+GPA = ((Gp1 * credit1) + (Gp2 * credit2) + (Gp3 * credit3)) / (credit1 + credit2 + credit3)
 print(f"Your GPA is: {GPA}")
